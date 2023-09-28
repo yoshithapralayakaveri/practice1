@@ -1,0 +1,6 @@
+git commands
+cd dir
+mkdir <new dir>
+touch 'file.name'
+vi 'file.name'
+
